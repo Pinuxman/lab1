@@ -1,0 +1,15 @@
+/Users/greg/Desktop/Hacklab/шарпы ебать/les3/bin/Debug/net7.0/les3
+/Users/greg/Desktop/Hacklab/шарпы ебать/les3/bin/Debug/net7.0/les3.deps.json
+/Users/greg/Desktop/Hacklab/шарпы ебать/les3/bin/Debug/net7.0/les3.runtimeconfig.json
+/Users/greg/Desktop/Hacklab/шарпы ебать/les3/bin/Debug/net7.0/les3.dll
+/Users/greg/Desktop/Hacklab/шарпы ебать/les3/bin/Debug/net7.0/les3.pdb
+/Users/greg/Desktop/Hacklab/шарпы ебать/les3/obj/Debug/net7.0/les3.csproj.AssemblyReference.cache
+/Users/greg/Desktop/Hacklab/шарпы ебать/les3/obj/Debug/net7.0/les3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/greg/Desktop/Hacklab/шарпы ебать/les3/obj/Debug/net7.0/les3.AssemblyInfoInputs.cache
+/Users/greg/Desktop/Hacklab/шарпы ебать/les3/obj/Debug/net7.0/les3.AssemblyInfo.cs
+/Users/greg/Desktop/Hacklab/шарпы ебать/les3/obj/Debug/net7.0/les3.csproj.CoreCompileInputs.cache
+/Users/greg/Desktop/Hacklab/шарпы ебать/les3/obj/Debug/net7.0/les3.dll
+/Users/greg/Desktop/Hacklab/шарпы ебать/les3/obj/Debug/net7.0/refint/les3.dll
+/Users/greg/Desktop/Hacklab/шарпы ебать/les3/obj/Debug/net7.0/les3.pdb
+/Users/greg/Desktop/Hacklab/шарпы ебать/les3/obj/Debug/net7.0/les3.genruntimeconfig.cache
+/Users/greg/Desktop/Hacklab/шарпы ебать/les3/obj/Debug/net7.0/ref/les3.dll
